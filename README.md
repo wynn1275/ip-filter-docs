@@ -1,2 +1,2 @@
-# ip-filter-performace-docs
-ip-filter 성능 테스트 결과 문서
+# ip-filter document
+  * [ip-filter wiki](https://github.com/wynn1275/ip-filter/wiki) 참고 부탁드립니다.
